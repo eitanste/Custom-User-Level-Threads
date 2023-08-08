@@ -1,6 +1,8 @@
 # Custom-User-Level-Threads
 
-**Project Description: A Custom User-Level Thread Library**
+<p align="center"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+
+# Project Description: A Custom User-Level Thread Library
 
 This project involves creating a custom user-level thread library, including a virtual timer class, error handling, and thread management. The primary goal is to provide a user-friendly interface for managing threads within a program. The library's main components include:
 
@@ -14,7 +16,7 @@ This project involves creating a custom user-level thread library, including a v
 
 5. **Makefile:** The provided Makefile is used to compile the library and create the static library file `libuthreads.a`. The Makefile also offers options for cleaning, dependency management, and creating a compressed archive.
 
-**Usage:**
+## Usage:
 
 To utilize this custom thread library in your program, follow these steps:
 
