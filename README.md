@@ -40,7 +40,7 @@ To utilize this custom thread library in your program, follow these steps:
 
 ## Building the Library
 
-To build the library, simply run the `make` command. This will compile the library and generate the static library file `libMapReduceFramework.a`.
+To build the library, simply run the `make` command. This will compile the library and generate the static library file `libuthreads.a`.
 
 ## Contact
 
