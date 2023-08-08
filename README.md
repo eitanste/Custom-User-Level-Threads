@@ -38,4 +38,12 @@ To utilize this custom thread library in your program, follow these steps:
 
 **Note:** The provided Makefile also includes a `tar` target to create a compressed archive of your project files for easy distribution.
 
+## Building the Library
+
+To build the library, simply run the `make` command. This will compile the library and generate the static library file `libMapReduceFramework.a`.
+
+## Contact
+
+For any questions or assistance, feel free to contact the library's developer at `Eitan.Stepanov@gmail.com`.
+
 By following these steps, you can integrate the custom thread library into your project, enabling concurrent execution and better resource management in your programs.
