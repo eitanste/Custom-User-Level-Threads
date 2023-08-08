@@ -14,7 +14,7 @@ TARGETS = $(OSMLIB)
 
 TAR=tar
 TARFLAGS=-cvf
-TARNAME=ex2.tar
+TARNAME=comppresed_lib.tar
 TARSRCS=$(LIBSRC) UTError.cpp UThread.cpp Itimer.cpp Makefile README
 
 all: $(TARGETS)
